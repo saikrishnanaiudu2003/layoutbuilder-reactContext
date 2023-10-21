@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.controller-container {
+  background-color: #475569;
+  height: 30vh;
+}
+.controller-text-container {
+  margin: 25px;
+}
+.elements-container {
+  color: white;
+  margin: 12px;
+}
